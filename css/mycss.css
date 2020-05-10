@@ -1,0 +1,19 @@
+.public-profile__badges {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.public-profile__badge {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    max-width: 250px;
+    min-width: 130px;
+    margin: 0 1.5rem 1.5rem 1.5rem;
+    text-align: center;
+}
