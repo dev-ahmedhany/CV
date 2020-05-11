@@ -1,0 +1,3 @@
+$('.NoStop').carousel({
+    pause: "false"
+});
