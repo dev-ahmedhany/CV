@@ -20,6 +20,8 @@
 }
 
 .avatar {
+    border: 4px solid steelblue;
+    
     border-radius: 50%;
     display: block;
 }
