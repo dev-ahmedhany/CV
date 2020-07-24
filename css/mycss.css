@@ -55,32 +55,6 @@ article{
     background-color: black;
 }
 
-.newWindow {
-    display:inline-block;
-    margin-left:5px;
-    margin-top: 5px;
-    position: relative;
-    border: 1px solid;
-    width: 15px;
-    height: 15px;
-  }
-  
-  .newWindow:after {
-    position: absolute;
-    top:-8px;
-    right:-2px;
-    font-size:15px;
-    content:"\1f855";
-  }
-  
-  .newWindow:before {
-    position: absolute;
-    top: -3px;
-    right: -3px;
-    content: " ";
-    border: 6px solid white;
-  }
-
 
 
 /* Style all font awesome icons */
