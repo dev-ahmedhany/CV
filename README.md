@@ -1,3 +1,3 @@
 # CV
 myCV at this link
-https://ahmedhany7.github.io/CV/
+https://dev-ahmedhany.github.io/CV/
